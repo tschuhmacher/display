@@ -1,0 +1,16 @@
+.DS_Store
+/node_modules/
+/dist/
+/public_local/
+/public_web/
+/pwa/
+/pwa_web/
+/pwa_pi/
+/pwa-pi-orig/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+*.glb
+public/models/
+public/fonts/
