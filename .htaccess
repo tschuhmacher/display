@@ -1,0 +1,9 @@
+#Version Hosting 08.16.19
+RewriteEngine on
+
+#Force from http to https
+RewriteCond %{ENV:HTTPS} !on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Rewrite für Umleitung auf den pwa-Unterordner
+RewriteRule (.*) /pwa/index.html [NC,L,QSA]
