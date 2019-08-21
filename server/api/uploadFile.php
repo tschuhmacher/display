@@ -7,7 +7,9 @@
     $imageExtensions = ['jpg', 'jpeg', 'png'];
 
     //path where will be file uploaded
-    $path = !in_array($fileExtension, $imageExtensions) ? __DIR__.'/../../public/models/' : __DIR__.'/../../public/img/';
+	$path = !in_array($fileExtension, $imageExtensions) ? __DIR__.'/'.'models/' : __DIR__.'/'.'img/';
+	echo $path;
+
 
     //allowed file extension for simple validation
     $allowedExtensions = ['jpg', 'jpeg', 'png', 'json', 'gltf'];
