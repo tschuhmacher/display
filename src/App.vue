@@ -158,8 +158,9 @@ a {
 
 html,
 body {
-  width: 100%;
+  background-color: black;
   height: 100%;
+  width: 100%;
 }
 
 /* main app styling */

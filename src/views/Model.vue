@@ -199,8 +199,8 @@ export default {
 /* container for the model viewer */
 .model-viewer {
   width: 100%;
-  position: relative;
   max-height: 100vh;
+  position: fixed;
 
   /* background - to be able to set up background for the viewer, the model-gltf needs to have the backgroundAlpha propery set to 0  */
   background: #45484d; /* Old browsers */
