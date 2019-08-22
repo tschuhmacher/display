@@ -156,10 +156,13 @@ a {
   text-decoration: none;
 }
 
-html,
-body {
+html {
   background-color: black;
-  height: 100%;
+}
+body {
+  margin: 0;
+  min-height: 100vh;
+  position: relative;
   width: 100%;
 }
 
