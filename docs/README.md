@@ -10,10 +10,10 @@ Die Webseite funktioniert wie eine App. Sie zeigt 3D-Museumsobjekte in Rundum-An
 
 An den 3D-Objekten sind Infopunkte angelegt. Die Infopunkte halten Texte oder Fragestellungen bereit. Verschiedene Infopunkte werden zu Erzählsträngen verbunden. Sie vernetzen Zusammenhänge. Damit können BesucheInnen Exponate im Detail untersuchen.Im Fokus steht das Eigeninteresse der BesucherInnen zu wecken. 
 
-### DISPLAY ist zu 100% open-source und zu 100%  kostenfrei (veröffentlicht unter der GNU Lizenz).
-### DISPLAY ist ein Gerüst oder Arbeitsumfeld, zur Erarbeitung einer progressiven Web-App für 3D Museumsobjekte. 
-### DISPLAY wird als Tutorial Hinweise und Tipps geben zur Installation, der benötigten technischen Ausstattungen und Inbetriebnahme.
-### DISPLAY  soll Lust schaffen es zu produzieren. 
+* DISPLAY ist zu 100% open-source und zu 100%  kostenfrei (veröffentlicht unter der GNU Lizenz).
+* DISPLAY ist ein Gerüst oder Arbeitsumfeld, zur Erarbeitung einer progressiven Web-App für 3D Museumsobjekte. 
+* DISPLAY wird als Tutorial Hinweise und Tipps geben zur Installation, der benötigten technischen Ausstattungen und Inbetriebnahme.
+* DISPLAY  soll Lust schaffen es zu produzieren. 
 
 ## Die Idee hinter dem Konzept? 
 Warum überhaupt? Es gibt eine Fülle an Informationen, die keinen Platz im Ausstellungsraum finden. BesucherInnen haben ein individuelles Bedürfnis nach Informationen und Kontexten. Digital können viele Inhalte präsentiert werden.
@@ -28,20 +28,23 @@ Das Konzept der PWA kombiniert die Vorteile von Webseiten und Apps:
 
 als Webseite: Betriebssystemunabhängig, wird mit dem Browser aufgerufen und nicht über den App-Store installiert
 als App: offline Funktionalität, ist vorteilhaft bei schlechter Internetverbindung, kann Homescreen-Icon, Push-Benachrichtigungen einrichten
-Link: https://www.ionos.de/digitalguide/websites/web-entwicklung/progressive-web-apps-welche-vorteile-bieten-sie/ oder
-https://praxistipps.chip.de/progressive-web-apps-was-ist-das-einfach-erklaert_98066 
+Link: 
+* https://www.ionos.de/digitalguide/websites/web-entwicklung/progressive-web-apps-welche-vorteile-bieten-sie/ oder
+* https://praxistipps.chip.de/progressive-web-apps-was-ist-das-einfach-erklaert_98066 
 
 ## Technische Voraussetzungen
 Benötigt wird folgendes. Wenn Du nicht weißt was es ist oder wo Du es bekommen kannst, brauchst du entweder eine WebentwicklerIn oder viel Zeit mit Begeisterung am Lernen. DISPLAY  soll Lust schaffen selbständig zu produzieren. Die Infrastruktur der Webentwicklungsumgebung
-Editor (hier Links mit Empfehlungen) 
-Webspace 
-Domain 
-Framework (Dateien zum runterladen) 
-3D Objekte
-Inhalte 
+* Editor (hier Links mit Empfehlungen) 
+* Webspace 
+* Domain 
+* Framework (Dateien zum runterladen) 
+* 3D Objekte
+* Inhalte 
 
 Um die Funktionen der PWA nutzbar zu machen, müssen wenige technische Voraussetzungen erfüllt sein. Hierzu informieren die Browserentwickler: LIIIIIINKs 
-https://www.websecurity.symantec.com/de/de/security-topics/what-is-ssl-tls-https  oder https://www.datenschutzbeauftragter-info.de/ssl-und-tls-verschluesselung-im-internet/  oder https://de.wikipedia.org/wiki/Transport_Layer_Security 
+* https://www.websecurity.symantec.com/de/de/security-topics/what-is-ssl-tls-https oder
+* https://www.datenschutzbeauftragter-info.de/ssl-und-tls-verschluesselung-im-internet/ oder
+* https://de.wikipedia.org/wiki/Transport_Layer_Security 
 
 ## Inhaltliche Voraussetzungen 
 Die Konzeption der Infopunkte ist ein Zusammenspiel aus kuratorischer und Bildungs- und Vermittlungsarbeit.Wertvoll sind Anregungen zur eigenständigen Auseinandersetzung mit dem Museumsobjekt. Fragen stellen, anstelle Wissen listen, ebenfalls ein Motto. Die Textproduktion ist den eigenen Ansätzen und kreativen Schreibwerkstätten übergeben. Herausforderung ist die nicht lineare Erzählstruktur.
@@ -56,7 +59,7 @@ So schreibe ich nicht-linear am 3D-Objekt
 
 ## Digitalisierung, -sate: 3D Objekte 
 Tbc. By Fanet
-Interoperabel: Auflösung? Dateiformat? Wie könnte man 3D Scanns in Auftrag geben? „Wir machen eine Web-App mit 3D Objekten, haben die das Format?“
+Interoperabel: Auflösung? Dateiformat? Wie könnte man 3D Scanns in Auftrag geben? „Wir machen eine Web-App mit 3D Objekten, haben die das Format?“
 
 ## Anleitung - Ran ans A-Z ans Schritt für Schritt
 1. Vision für die Mission nennen
