@@ -10,10 +10,14 @@ Die Webseite funktioniert wie eine App. Sie zeigt 3D-Museumsobjekte in Rundum-An
 
 An den 3D-Objekten sind Infopunkte angelegt. Die Infopunkte halten Texte oder Fragestellungen bereit. Verschiedene Infopunkte werden zu Erzählsträngen verbunden. Sie vernetzen Zusammenhänge. Damit können BesucheInnen Exponate im Detail untersuchen.Im Fokus steht das Eigeninteresse der BesucherInnen zu wecken. 
 
+---
+
 * DISPLAY ist zu 100% open-source und zu 100%  kostenfrei (veröffentlicht unter der GNU Lizenz).
 * DISPLAY ist ein Gerüst oder Arbeitsumfeld, zur Erarbeitung einer progressiven Web-App für 3D Museumsobjekte. 
 * DISPLAY wird als Tutorial Hinweise und Tipps geben zur Installation, der benötigten technischen Ausstattungen und Inbetriebnahme.
 * DISPLAY  soll Lust schaffen es zu produzieren. 
+
+--- 
 
 ## Die Idee hinter dem Konzept? 
 Warum überhaupt? Es gibt eine Fülle an Informationen, die keinen Platz im Ausstellungsraum finden. BesucherInnen haben ein individuelles Bedürfnis nach Informationen und Kontexten. Digital können viele Inhalte präsentiert werden.
