@@ -9,7 +9,8 @@ Display ist eine Schritt für Schritt Vorlage, mit der jede und jeder eine progr
 Ausstellungshäuser sind dem Probelm gegenübergestellt, dass es eine Fülle an Inhalten gibt, die keinen Platz im Ausstellungsraum finden. Zusätzlich haben BesucherInnen sehr individuelle Bedürfnisse nach Informationen und Kontexten. 
 
 (LÖSUNG) 
-Ditigal können viele Inhalte angeboten werden. Mit der Display-PWA ergibt sich die Möglichkeit Inhalte und Kontexte am (3D-)Museumsobjekt zu präsentier. Übersichtlich veranschaulicht, ohne die Sinne mit Texttafeln zu fluten.
+Ditigal können viele Inhalte angeboten werden. Mit der Display-PWA werden Kontexte am (3D-)Museumsobjekt zu präsentier. Übersichtlich veranschaulicht, ohne die Sinne mit Texttafeln zu fluten.
+
 Im Fokus steht das Eigeninteresse der BesucherInnen zu wecken. Das Erkunden gelingt auf andere Weise als beim Objekt in der Glasvitrine.
 
 ## (VIDEO)
@@ -43,7 +44,7 @@ Infos zu PWAs:
 * https://praxistipps.chip.de/progressive-web-apps-was-ist-das-einfach-erklaert_98066
 
 ## Technische Voraussetzungen
-Benötigt wird folgendes. Wenn Du nicht weißt was es ist oder wo Du es bekommen kannst, brauchst du entweder eine WebentwicklerIn oder viel Zeit mit Begeisterung am Lernen. DISPLAY  soll Lust schaffen selbständig zu produzieren. Die Infrastruktur der Webentwicklungsumgebung
+Benötigt wird folgendes. Wenn Du nicht weißt was es ist oder wo Du es bekommen kannst, brauchst du entweder eine WebentwicklerIn oder viel Zeit mit Begeisterung am Lernen. DISPLAY soll Lust schaffen selbständig zu produzieren. Die Infrastruktur der Webentwicklungsumgebung
 * Editor (hier Links mit Empfehlungen)
 * Webspace
 * Domain
