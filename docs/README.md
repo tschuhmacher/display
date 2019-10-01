@@ -2,37 +2,43 @@
 Erkunde Museumsobjekte auf dem Smartphone
 
 ## Was macht DISPLAY?
-Mit Display kann jede und jeder eine progressive Web-App (PWA) erstellen. Display ist eine Schritt für Schritt Vorlage.
+(KATHEGORIE)
+Display ist eine Schritt für Schritt Vorlage, mit der jede und jeder eine progressive Web-App (PWA) erstellen kann. Die Display-PWA ist ein digitales und innovatives Medienformat Museumsobjekte BesucherInnen näher zu bringen.
 
-Die PWA ist ein digitales und innovatives Format Museumsobjekte BesucherInnen näher zu bringen.
+(PROBLEM) 
+Ausstellungshäuser sind dem Probelm gegenübergestellt, dass es eine Fülle an Inhalten gibt, die keinen Platz im Ausstellungsraum finden. Zusätzlich haben BesucherInnen sehr individuelle Bedürfnisse nach Informationen und Kontexten. 
 
-Die Webseite funktioniert wie eine App. Sie zeigt 3D-Museumsobjekte in Rundum-Ansicht an. Das digitale Objekt lässt sich in alle Richtungen drehen und wenden und zeigt so, was beim realen Objekt verborgen bleibt – beispielsweise die Unterrseite. Das Erkunden gelingt auf andere Weise als beim Objekt in der Glasvitrine.
+(LÖSUNG) 
+Ditigal können viele Inhalte angeboten werden. Mit der Display-PWA ergibt sich die Möglichkeit Inhalte und Kontexte am (3D-)Museumsobjekt zu präsentier. Übersichtlich veranschaulicht, ohne die Sinne mit Texttafeln zu fluten.
+Im Fokus steht das Eigeninteresse der BesucherInnen zu wecken. Das Erkunden gelingt auf andere Weise als beim Objekt in der Glasvitrine.
 
-An den 3D-Objekten sind Infopunkte angelegt. Die Infopunkte halten Texte oder Fragestellungen bereit. Verschiedene Infopunkte werden zu Erzählsträngen verbunden. Sie vernetzen Zusammenhänge. Damit können BesucheInnen Exponate im Detail untersuchen.Im Fokus steht das Eigeninteresse der BesucherInnen zu wecken.
+## (VIDEO)
+
+(SO FUNKTIONIERTS)
+(BARRIEREFREIER TEXT ZUM VIDEO/ Unterschrift ?)
+Die PWA zeigt 3D-Museumsobjekte in Rundum-Ansicht an. Sie lassen sich in alle Richtungen drehen und wenden und zeigen so, was beim realen Objekt verborgen bleibt – beispielsweise die Unterrseite. 
+An den 3D-Objekten sind Infopunkte angelegt. Die Infopunkte halten Texte oder Fragestellungen bereit. Verschiedene Infopunkte werden zu Erzählsträngen verbunden. Sie vernetzen Zusammenhänge. Damit können BesucheInnen Exponate im Detail untersuchen. 
+
 
 ---
 
 * DISPLAY ist zu 100% open-source und zu 100%  kostenfrei (veröffentlicht unter der GNU Lizenz).
 * DISPLAY ist ein Gerüst oder Arbeitsumfeld, zur Erarbeitung einer progressiven Web-App für 3D Museumsobjekte.
 * DISPLAY wird als Tutorial Hinweise und Tipps geben zur Installation, der benötigten technischen Ausstattungen und Inbetriebnahme.
-* DISPLAY  soll Lust schaffen es zu produzieren.
+* DISPLAY soll Lust schaffen selbst zu produzieren.
 
 ---
 
 ## Die Idee hinter dem Konzept?
-Warum überhaupt? Es gibt eine Fülle an Informationen, die keinen Platz im Ausstellungsraum finden. BesucherInnen haben ein individuelles Bedürfnis nach Informationen und Kontexten. Digital können viele Inhalte präsentiert werden.
+Warum 3D-Objekte? Weil sie (sowieso) zur Dokumentation in Museen hergestellt werden. Durch die Web-App werden die Modelle auch für die BesucherInnen nutzbar gemacht. 
 
-Warum 3D-Objekte? Weil sie (sowieso) zur Dokumentation in Museen hergestellt werden. Durch die Web-App werden die Modelle auch für die BesucherInnen nutzbar gemacht.
+Warum eine nicht-lineare Erzählstruktur? Es ist leicht zugänglich und spricht die persönliche Neugierde an. Es vernetzt Zusammenhänge schrittweise. Es fördert die Eigeninitiative und stärkt das Eigeninteresse. 
 
-Warum eine nicht-lineare Erzählstruktur? Es ist übersichtlich. Es vernetzt Zusammenhänge schrittweise. Dies steigert das explorative Entdecken. Es fördert die Eigeninitiative und stärkt das Eigeninteresse. Alles nach den individuellen Bedürfnissen der BesucherInnen.
-
-## Warum eine progressive Web-App?
-Eine PWA ist eine Webseite, die wie eine App funktioniert.
-Das Konzept der PWA kombiniert die Vorteile von Webseiten und Apps:
+Warum eine progressive Web-App? Weil sie die Vorteile von Webseite und App kombiniert:
 
 als Webseite: Betriebssystemunabhängig, wird mit dem Browser aufgerufen und nicht über den App-Store installiert
 als App: offline Funktionalität, ist vorteilhaft bei schlechter Internetverbindung, kann Homescreen-Icon, Push-Benachrichtigungen einrichten
-Link:
+Infos zu PWAs:
 * https://www.ionos.de/digitalguide/websites/web-entwicklung/progressive-web-apps-welche-vorteile-bieten-sie/ oder
 * https://praxistipps.chip.de/progressive-web-apps-was-ist-das-einfach-erklaert_98066
 
