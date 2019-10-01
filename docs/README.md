@@ -1,4 +1,4 @@
-# DISPLAY
+# display
 Erkunde Museumsobjekte auf dem Smartphone
 
 ## Was macht DISPLAY?
