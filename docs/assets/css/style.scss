@@ -4,6 +4,7 @@
 .page-header {
   background-image: url('../img/pwa.jpg') !important;
   background-size: cover;
+  background-position: center;
 }
 
 @import "{{ site.theme }}"
