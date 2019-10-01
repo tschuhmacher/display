@@ -1,11 +1,15 @@
 ---
 ---
-  
+
+$header-heading-color: #fff !default;
+$header-bg-color: #143e5d !default;
+$section-headings-color: #143e5d !default;
+
+@import "{{ site.theme }}";
+
 .page-header {
-  background-color: white !important;
+  background-color: $header-bg-color;
   background-image: url('../img/logo.png') !important;
   background-size: auto;
   background-position: center;
 }
-
-@import "{{ site.theme }}"
