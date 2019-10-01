@@ -2,7 +2,8 @@
 ---
 
 .page-header {
-  background-image: url('./pwa.jpg');
+  background-image: url('../img/pwa.jpg');
+  background-size: cover;
 }
 
 @import "{{ site.theme }}"
