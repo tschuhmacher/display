@@ -1,0 +1,300 @@
+[
+  [
+    {
+      "id": 0,
+      "title": "Object One",
+      "scene": "./models/one.glb",
+      "coverImage": "./img/vase.png",
+      "location": "Location One",
+      "infoPoints": [
+        {
+          "groupName": "Introduction",
+          "groupContent": [
+            {
+              "point": "One01",
+              "title": "Editor and config.json",
+              "firstContent": "Everything can be edited in the editor or in the file called config.json",
+              "image": "/pwa/img/Tchok.jpg",
+              "imageSubtitle": "You can upload an image with 800x600px with the editor or put one in the img-folder",
+              "secondContent": "By using the editor the JSON-Syntax will generated for you, so it's easier for beginners. If you already know the JSON-file-format, you are also able to write in the file itself."
+            },
+            {
+              "point": "One02",
+              "title": "A Storyline",
+              "firstContent": "Several points are connected to a storyline. You can edit them by setting up the editor to your web app. Or by editing the file config.json",
+              "image": "/pwa/img/uchan_k.jpg",
+              "imageSubtitle": "Find subtitles are as well in config.json",
+              "secondContent": "Which features show that u chan ?-k' is an important warrior? His name was provided to clearly identify him. This is the case for only three of the 12 warriors depicted. His headdress is very large and striking. And he is wearing a jerkin made of jaguar skin. This privilege was only conferred on influential persons in the Mayan culture. On his chest, u chan ?-k' bears three heads. Combined with his title (u chan = Captor of ...), this indicates that he once captured important enemies."
+            },
+            {
+              "point": "One03",
+              "title": "Non-linear information",
+              "firstContent": "This card can be the first, second, third or fourth you click while explore the model.",
+              "image": "/pwa/img/zweiterFaenger.jpg",
+              "imageSubtitle": "Another image",
+              "secondContent": "That's one of main reasons why it's so important to repeat content on the cards."
+            }
+          ]
+        },
+        {
+          "groupName": "Single Point",
+          "groupContent": [
+            {
+              "point": "One04",
+              "title": "War Vase",
+              "firstContent": "Mayan, Guatemala, late classic period, 700—900 CE. Acquired 1999, Inv. No. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "/pwa/img/vase_grunddaten.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Nandi",
+      "scene": "/pwa/models/nandi.glb",
+      "coverImage": "/pwa/img/nandi.png",
+      "location": "Pergamonmuseum",
+      "infoPoints": [
+        {
+          "groupName": "Data",
+          "groupContent": [
+            {
+              "point": "SpriteA1",
+              "title": "Processional Animal, painted wood",
+              "firstContent": "Tamil Nadu (South India), 19th century, acquired 1987, Inv. No. I 5958, Museum für Asiatische Kunst, Staatliche Museen zu Berlin",
+              "image": "/pwa/img/nandi_grunddaten.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "title": "Maya Krieger",
+      "scene": "/pwa/models/vase.glb",
+      "coverImage": "/pwa/img/vase.png",
+      "location": "Neues Museum",
+      "infoPoints": [
+        {
+          "groupName": "Hauptszene",
+          "groupContent": [
+            {
+              "point": "SpriteA1",
+              "title": "Gehalten wird der ‚Fänger des Baumjünglings‘",
+              "firstContent": "Die Gefangennahme des „Fänger des Baumjünglings“ (u chan Te’ Ch’ok’) bildet den Mittelpunkt der gezeigten Kriegszene.",
+              "image": "/pwa/img/Tchok.jpg",
+              "imageSubtitle": "„Fänger des Baumjünglings“ (u chan Te’ Ch’ok’)",
+              "secondContent": "Zwar kann u chan Te’ Ch’ok’ noch seine Axt heben und dabei den Speer seines Gegenübers abwehren, der Griff in seinen Haarschopf stellt aber unmissverständlich seine Niederlage dar. U chan Te’ Ch’ok’ wird von zwei Personen eingerahmt, fast alle anderen gezeigten Personen links und rechts der Szenen blicken in die Richtung der Ergreifung."
+            },
+            {
+              "point": "SpriteA2",
+              "title": "Fänger des ?-k",
+              "firstContent": "Kaum zu übersehen auf dem Gefäß ist der Krieger u chan ?-k‘ (Fänger des ?-k‘). Den Namen verraten die rot unterlegten Schriftzeichen neben der Figur. Das „?“ zeigt an, dass Hieroglyphen noch unbekannt sind.",
+              "image": "/pwa/img/uchan_k.jpg",
+              "imageSubtitle": "„u chan ?-k‘“ (Fänger des ?-k‘)",
+              "secondContent": "Welche Merkmale zeigen an, dass es sich bei u-chan-?-k um einen bedeutenden Krieger handelt? Sein Name ist angegeben um ihn eindeutig zu identifizieren. Dies ist nur bei drei von insgesamt zwölf Kriegern der Fall. Sein Kopfschmuck ist sehr groß und fällt auf. Außerdem trägt er ein Hemd aus Jaguarfell. Das ist ein Privileg, das nur einflussreiche Personen in der Kultur der Maya hatten. An seiner Brust trägt u chan ?-k‘ drei Köpfe, wie auch sein Titel u-chan „Fänger des …“ deuten sie darauf hin, dass er einmal bedeutende Gefangene gemacht hat."
+            },
+            {
+              "point": "SpriteA3",
+              "title": "Zweiter Fänger",
+              "firstContent": "Diese zweite Person hält den „Fänger des Baumjünglings“ (u chan Te‘ Ch’ok‘) am Haarschopf. Diese beherrschende Geste zeigt die Gefangennahme von u-chan Te‘ Ch‘ok‘ an.",
+              "image": "/pwa/img/zweiterFaenger.jpg",
+              "imageSubtitle": "Der zweite Fänger wird auf dem Gefäß nicht namentlich identifiziert.",
+              "secondContent": "Das gezeigte Gefäß gehört zu einer Serie von Kakaogefäßen, die der Herrscher von Aj Kunal Aj Baak anfertigen ließ. Dies besagt zumindest die Weiheinschrift am oberen Rand. Die Darstellung auf der Berliner Vase zählt als ein Beleg dafür, dass kriegerische Auseinandersetzung, entgegen früherer Annahmen, in der Kultur der Maya zum politischen Alltag gehörten. Weitere Gefäße der Serie befinden sich in den Sammlungen des British Museums und des Boston Museum of Fine Arts."
+            },
+            {
+              "point": "SpriteA4",
+              "title": "Die weiteren Krieger",
+              "firstContent": "Alle weiteren Personen blicken zur Gefangennahme.",
+              "image": "/pwa/img/weitereKrieger.jpg",
+              "imageSubtitle": "Drei individuelle Krieger",
+              "secondContent": "Auch die Blicke der anderen Beteiligten in der Szene zeigen die Gefangennahme von u chan Te’ Ch’ok’ als zentralen Thema an. Bei der Betrachtung der gezeigten Personen im Einzelnen, lässt sich eine hohe Individualisierung feststellen. Trotz einer Ähnlichkeit in den Grundzügen fällt auf, dass jede Person im Kriegszug vom Künstler mit individuellem Gesichtsschmuck, detaillierter Kopfbedeckung und Kleidung ausgestattet wurde."
+            }
+          ]
+        },
+          {
+            "groupName": "Gefangene",
+            "groupContent": [
+            {
+              "point": "SpriteB1",
+              "title": "Kämpfender Gefangener",
+              "firstContent": "U chan Te’ Ch’ok’ (Fänger des Baumjünglings) wird in den Haarschopf gegriffen und gilt damit als besiegt.",
+              "image": "/pwa/img/dreiSchopfgriffe.jpg",
+              "imageSubtitle": "Alle drei Gefangennahmen werden durch den Griff in die Haare angezeigt.",
+              "secondContent": "Auf dem Gefäß sind drei weitere Gefangennahmen dargestellt. Alle drei Gefangenen sind durch den Griff in ihren Haarschopf zu erkennen. Im Vergleich bilden sie drei verschiedene Zustände der Gefangennahme ab. U chan Te’ Ch’ok’ ist noch im Kampf abgebildet, er hat seine Axt noch erhoben und wehrt den Speer seines Gegners ab. Welche Symbole finden sich bei den weiteren Gefangenen?"
+            },
+            {
+              "point": "SpriteB2",
+              "title": "Gebückter Gefangener",
+              "firstContent": "Dieser Gefangene blickt zu Boden, steht gebückt und hat seinen Speer bereits gesenkt. Ihm wird von seinem Gegenüber in die Haare gegriffen und damit gilt er als besiegt.",
+              "image": "/pwa/img/Tchok.jpg",
+              "imageSubtitle": "U chan Te’ Ch’ok’ wird im Kampf dargestellt.",
+              "secondContent": "Im Kontext der drei dargestellten Gefangenen zeigt diese Abbildung eine Art Zwischenzustand. Während der Fänger des Baumjünglings (U chan Te’ Ch’ok’) noch im aktiven Kampf abgebildet ist, hat diese Figur ihren Speer bereits gesenkt und blickt zu Boden."
+            },
+            {
+              "point": "SpriteB3",
+              "title": "Entkleideter Gefangener",
+              "firstContent": "Durch den entkleideten Gefangenen wird eine weitere Art an Unterwerfungsgesten angezeigt. Er wird entkleidet und auf dem Boden kniend dargestellt.",
+              "image": "/pwa/img/B3_LaPasiditaLintel.jpg",
+              "imageSubtitle": "Auch dem Türstürz 'La Pasadita Lintel' findet man die Darstellung eines entkleideten Gefangenen. ©SMB/Claudia Obrocki",
+              "secondContent": "Während die beiden weiteren Gefangenen noch am Kampf beteiligt und mit Waffen dargestellt sind, ist diese Person eindeutig seinem Gegenüber unterworfen abgebildet. Sie hält sich am Bein ihres Gegenübers fest, und blickt auf die Gefangennahme von u chan Te’ Ch’ok’."
+            }
+          ]
+        },
+        {
+          "groupName": "Personen",
+          "groupContent": [
+            {
+              "point": "SpriteC1",
+              "title": "u chan Te’ Ch’ok’",
+              "firstContent": "Die dargestellte Figur ist der „Fänger des Baumjünglings“ (u chan Te’ Ch’ok’). Sein Name steht in rotunterlegten Schriftzeichen neben seinem Kopf. Der Titel „u-chan…“ – also „Fänger des …“ – zeigt an, das die Person in der Vergangenheit bedeutsame Gefangene gemacht haben muss.",
+              "image": "/pwa/img/Tchok-Person.jpg",
+              "imageSubtitle": "",
+              "secondContent": "Die ausgestellte „Berliner Kriegsvase“ ist Bestandteil einer Reihe von Keramiken. In der Stilgruppe werden Palast- und Kriegsszenen gezeigt, die miteinander in Beziehung stehen. Sie umfassen damit scheinbar eine größere Erzählung, die der Herrscher Aj Kunal Aj Baak –sein Name ist der Weiheformel am oberen Rand zu entnehmen – für die Nachwelt festhalten ließ."
+            },
+            {
+              "point": "SpriteC2",
+              "title": "u chan ?-k’",
+              "firstContent": "Der Krieger im Jaguar-Überwurf wird durch die nebenstehenden Hieroglyphen als u chan ?-k‘ benannt. Durch den Titel „u-chan…“ wird deutlich, dass er bereits bedeutende Gefangene gemacht hat. Die Figur von u chan ?-k‘ scheint eine größere Bedeutung für die Erzählung zu haben.",
+              "image": "/pwa/img/uchan_k-person.jpg",
+              "imageSubtitle": "",
+              "secondContent": "Neben der gezeigten Berliner Vase existieren noch mindestens fünf weitere Gefäße, die gemeinsam als Gruppe angesehen werden können. Das Gefäß, das zur Sammlung des Museum of Fine Arts Boston (https://www.mfa.org/collections/object/cylinder-vase-6033) zählt, zeigt ebenfalls den Krieger u chan ?-k‘. In der Palastszene wird er dem Herrscher Aj Kunal Aj Baak als Gefangener vorgeführt."
+            },
+            {
+              "point": "SpriteC3",
+              "title": "u chan lakam",
+              "firstContent": "Die rot unterlegten Hieroglyphen neben der Figur verraten ihren Namen u chan lakam. Übersetzt bedeutet er etwa ‘Fänger des Lakam’ und zeigt an, dass die Person einen bedeutenden Gefangenen mit Namen Lakam gemacht hat.",
+              "image": "/pwa/img/uchanLakam.jpg",
+              "imageSubtitle": "",
+              "secondContent": "Da über die Person nichts Weiteres bekannt ist, können nur von seiner Darstellung aus Vermutungen angestellt werden. Wie könnte u chan lakam also beschrieben werden? Auffällig ist der große bemalte Totenschädel, der von seinem Gürtel hängt. Vielleicht deutet er eine wichtige Gefangennahme an, die der Krieger gemacht hat. Vielleicht soll er andere Krieger abschrecken. Wie wirkt der Ausdruck u chan lakams, ist er aufgeregt und angespannt oder ruht er in sich und überblickt den Tumult um ihn herum? Was fällt auf, wenn man sein Gesicht und seine Haltung mit den anderen Kriegern vergleicht? Wie nimmt er die Szene wahr? Was würde er dazu sagen, heute im Museum betrachtet zu werden?"
+            }
+          ]
+        },
+        {
+          "groupName": "Kleidung & Schmuck",
+          "groupContent": [
+            {
+              "point": "SpriteD1",
+              "title": "Trophäenköpfe",
+              "firstContent": "Im Bild sind mehrere sogenannte Trophäenkopfe zu sehen. u chan Te’ Ch’ok’ (‘Fänger des Baumjünglings’) trägt einen am Gürtel, u chan ?-k‘ trägt drei am Gewand.",
+              "image": "/pwa/img/D1_Portraitmaske.jpg",
+              "imageSubtitle": "Bild mitte Portraitmaske: ©SMB/Claudia Obrocki",
+              "secondContent": "Eine Deutung ist, dass der „Fänger“ (u chan) bereits bedeutende Gefangene gemacht hat. Mit den Trophäenköpfen stellt der Krieger seine Tapferkeit und sein Geschick zur Schau. Gleichzeitig versucht er seine Gegner einzuschüchtern. Ob es sich bei der Darstellung auf der Vase, um einen symbolischen Tonkopf handelt, kann nicht geklärt werden. Ähnlich dargestellte Köpfe finden sich auch im Kopfschmuck verschiedener Krieger."
+            },
+            {
+              "point": "SpriteD2",
+              "title": "Jaguarfelle",
+              "firstContent": "Die besondere Position, die Krieger u chan ?-k‘ in der Szene inne hat, wird deutlich durch die Kleidung, in der er dargestellt ist. Er trägt einen ausladenden Kopfschmuck und ein Hemd aus Jaguarfell.",
+              "image": "/pwa/img/uchan_k.jpg",
+              "imageSubtitle": "Das Jaguarfell des Krieger u-chan ?-k' ist vereinfacht dargestellt",
+              "secondContent": "Der Jaguar war und ist bis heute in den tropischen Gebieten Mittel- und Südamerikas Inbegriff und Symbol für Kraft, Stärke und Macht, und entsprechend hatten ausschließlich Personen mit politischem Einfluss das Privileg, Bekleidung aus Jaguarfell anzulegen."
+            },
+            {
+              "point": "SpriteD3",
+              "title": "Steinketten",
+              "firstContent": "An den Beinen vieler Krieger finden sich Steinketten, manche haben nur wenige andere mehrere angelegt.",
+              "image": "/pwa/img/D3_Steinketten.jpg",
+              "imageSubtitle": "Bild mitte Jadestein: ©SMB/Claudia Obrocki",
+              "secondContent": "Der Jadestein auf dem folgenden Bild ist ein besonders edles Exemplar. Auf vielen anderen Darstellungen der Maya finden sich diese Steinketten."
+            },
+            {
+              "point": "SpriteD4",
+              "title": "Tierkopf",
+              "firstContent": "Rätsel gibt dieser Kopfschmuck auf. Was genau ist hier dargestellt und warum findet sich nur ein einziges Exemplar hiervon auf dem Bild, während sich der Kopfschmuck andere Krieger ähnelt.",
+              "image": "/pwa/img/zweiterFaenger.jpg",
+              "imageSubtitle": "",
+              "secondContent": "Entgegen u chan ?-k‘ oder u chan lakam ist dieser Krieger nicht näher benannt. Produkte aus organischen Materialien, sowie Felle, Wolle oder Naturfasern, verwesen ohne Pflege über die Jahrhunderte. Zeichnungen wie auf dem gezeigten Gefäß können dabei helfen nachzuvollziehen, wie sich die Maya gekleidet haben könnten."
+            }
+          ]
+        },
+        {
+          "groupName": "Die Weiheformel",
+          "groupContent": [
+            {
+              "point": "SpriteE1",
+              "title": "a-ja-la?",
+              "firstContent": "„Hier…“ Die Inschrift beginnt gewöhnlich mit der sogenannten Eröffnungsglyphe ‚a-LAYA-a‘. In dieser Version ist die Glyphe ‚a-ja-la‘ ungewöhnlich. Dies könnte ein regionaler Dialekt des Hochlands sein.",
+              "image": "/pwa/img/hiero-1-a-ja-la.jpg",
+              "imageSubtitle": "",
+              "secondContent": "Das Gebiet der Maya erstreckt sich über die heutigen Staaten Guatemala, Belize und Teile Mexikos. Unterschieden wird zwischen der trockenen dicht bewachsenen Zone des nördlichen Tieflands, dem zentralen Tiefland im tropischen Regenwald und dem südlichen Hochland am pazifischen Küstenstreifen. Die bekannten Maya-Tempel wie etwa ‚Tikal‘ befinden sich im Tiefland im heutigen Guatemala und auf der mexikanischen Halbinsel Yukatan. Das Gefäß oder vielmehr der verwendete Ton stammt aus dem im südlichen Hochland, aus der Region um den Ort San Augustin Acasaguastlan am Motagua-Fluss."
+            },
+            {
+              "point": "SpriteE2",
+              "title": "?-yi",
+              "firstContent": "„… wird geweiht…“ Da die Glyphe unbekannt ist, kann nur aus dem Zusammenhang geschlossen werden.",
+              "image": "/pwa/img/hiero-2-yi.jpg",
+              "imageSubtitle": "",
+              "secondContent": "Die Schrift der Maya ist noch nicht vollständig entschlüsselt. Es sind keine mehrsprachigen Inschriften vorhanden, die, wie etwa der Stein von Rosette, Übersetzungen in anderen Sprachen zulassen würden. Im Jahr 1952 gelang dem russischen Ägyptologen Yuri Knorozov der Durchbruch in der Entschlüsselung der Maya-Schrift. Er konnte nachweisen, dass in den Glyphen nicht wie zuvor angenommen Buchstaben, sondern Worte- und Silbenzeichen abgebildet sind."
+            },
+            {
+              "point": "SpriteE3",
+              "title": "u-tz’i | ba-li | yu-k’i-bi | ta-IXIM | ya-TE’ | ka-wa",
+              "firstContent": "„… die Schrift des Trinkgefäßes für Kakao vom Baum des Überflusses …“",
+              "image": "/pwa/img/hiero-3-neu.jpg",
+              "imageSubtitle": "",
+              "secondContent": "In diesem Teil der Weiheinschrift finden sich verschiedene Hinweise auf die Verwendung und die Herkunft des Gefäßes. Der Keramik-Zylinder, der vielseitige Funktionen haben könnte, wird in der Inschrift genau als Trinkgefäß für Kakao benannt. Der Verweis auf den Kakao deutet auf die herausgehobene Stellung des Besitzers. Kakao, der als Blut des wichtigen Maisgottes galt, war ein kostbares Getränk. Ihm wurde eine stärkende und medizinische Wirkung zugeschrieben. Gefäße wie dieses waren Bestandteil der höfischen Kultur und wurden zum Beispiel im Anschluss an Feste verschenkt, ausgetauscht und gesammelt. Aus der Tatsache, dass das ausgestellte Exemplar sehr gut erhalten ist, kann geschlossen werden, dass das Trinkgefäß vermutlich als Grabbeigabe die Jahrhunderte unbeschadet überstehen konnte. Auch die Bezeichnung „u-tz’i ba-li“ (die Schrift/ Bemalung von …) gibt weitere Hinweise auf den Herkunftsort und die Epoche der Entstehung. Die Silben finden sich hauptsächlich auf Keramiken aus dem Hochland von Guatemala, zur Periode der Frühen Klassik (250-600 n. Chr.). Schreiber aus anderen Regionen oder Epochen verwendeten andere Bezeichnungen."
+            },
+            {
+              "point": "SpriteE4",
+              "title": "AJ-ku-NAL | AJ-BAAK-ki | yo-OON?-ni | AJ-SIY-ya-ja | TUUN?",
+              "firstContent": "Aj Kunal Aj Baak (er aus Kunal, der Gefangene gemacht hat) aus der Familie von Aj Siyaj Tuun (er, der geboren wurde aus dem Stein) wird hier als Besitzer des Kakaogefäßes genannt.",
+              "image": "/pwa/img/hiero-4-neu.jpg",
+              "imageSubtitle": "",
+              "secondContent": "Der ‘Besitzer’ des Gefäßes ist auch auf weiteren Gefäßen in der Inschrift erwähnt und auf einigen abgebildet. Ein Gefäß befindet sich im Besitz des Boston Museum of Fine Arts (https://www.mfa.org/collections/object/cylinder-vase-6033). Hier wird in einer Palastszene Aj Kunal Aj Baak als Herrscher dargestellt. Ihm wird u chan ?-k‘ als Gefangener vorgeführt."
+            },
+            {
+              "point": "SpriteE5",
+              "title": "u-BAAH-AAN | UX-wi-WINIK HAAB | u-CHAN-nu | ? | CHAN?-na",
+              "firstContent": "„…er ist es, der verkörpert Ux K’atun u-Chanu ? Chan-na (im dritten K’atun der Fänger von ? Schlange?“ Der letzte Abschnitt der Weiheinschrift stellt eine Beziehung zwischen dem Herrscher Aj Kunal Aj Baak und seinen Ahnen her.",
+              "image": "/pwa/img/hiero-5-neu.jpg",
+              "imageSubtitle": "",
+              "secondContent": "Die Zeitrechnung der Maya bezieht sich auf eine lineare sogenannte ‚Lange Zählung‘ und darin wiederkehrende Ereignisse, die auch einen mythologischen Ursprung haben können. Das K’atun ist eine Zeiteinteilung der ‚Langen Zählung‘ und steht für 7.200 Tage. Der Fänger der Schlange könnte also ein mythischer Vorfahre sein. Daten für wichtige Ereignisse wurden von den Herrschern der Maya sorgfältig ausgewählt. Sie wollten zum Beispiel ihre Thronbesteigung damit in den Kontext einer mythischen Begebenheit stellen, um ihrer Machtergreifung vermutlich mehr Bedeutsamkeit zu verleihen."
+            }
+          ]
+        },
+        {
+          "groupName": "Daten",
+          "groupContent": [
+            {
+              "point": "SpriteF1",
+              "title": "Kriegsvase",
+              "firstContent": "Maya, Guatemala, Stätklassik, 700—900 n. Chr., 1999 erworben, Inv.–Nr. IV Ca 50112, Ethnologisches Museum, Staatliche Museen zu Berlin.",
+              "image": "/pwa/img/vase_grunddaten.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Nandi",
+      "scene": "/pwa/models/nandi.glb",
+      "coverImage": "/pwa/img/nandi.png",
+      "location": "Pergamonmuseum",
+      "infoPoints": [
+        {
+          "groupName": "Daten",
+          "groupContent": [
+            {
+              "point": "SpriteA1",
+              "title": "Prozessionstier aus Holz, farbig gefasst",
+              "firstContent": "Südindien, Tamil Nadu, 19. Jahrhundert, erworben 1987, Inv.—Nr. I 5958, Museum für Asiatische Kunst, Staatliche Museen zu Berlin",
+              "image": "/pwa/img/nandi_grunddaten.jpg",
+              "imageSubtitle": "",
+              "secondContent": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+]
