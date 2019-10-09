@@ -1,10 +1,9 @@
 <template>
   <v-layout
     v-touch="{
-				left: () => swipe('swipeleft'),
-				right: () => swipe('swiperight'),
-			}"
-    <!-- v-hammer:swipe.up.down="(event) => swipe(event.type)" -->
+      left: () => swipe('swipeleft'),
+      right: () => swipe('swiperight'),
+    }"
   >
     <swiper ref="mySwiper" :options="swiperOption" v-bind:class="{ active: isExpanded }">
       <swiper-slide v-for="slide in slides" :key="slide.id">
