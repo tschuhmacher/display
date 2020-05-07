@@ -1,7 +1,5 @@
 .DS_Store
 
-*.glb
-
 dist/
 
 node_modules/
@@ -10,15 +8,10 @@ npm-debug.log*
 package-lock.json
 
 public/fonts/
-public/models/
-
-public_local/
-public_web/
 
 pwa/
-pwa_web/
-pwa_pi/
-pwa-pi-orig/
 
 yarn-debug.log*
 yarn-error.log*
+
+yarn.lock
