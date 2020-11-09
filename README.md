@@ -35,9 +35,9 @@ Table of Content
 [1. Getting Started](#Getting-Started)  
 [2. Viewer](#2-viewer)  
 [3. Editor ](#3-editor)  
-[4. Adding new language (optional)](#4-Adding-new-language-optional)
-[5. Usage](5-usage)
-[6. Examples](6-examples)
+[4. Adding new language (optional)](#4-Adding-new-language-optional)  
+[5. Usage](5-usage). 
+[6. Examples](6-examples). 
 
 
 ## 1. Getting Started
