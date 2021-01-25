@@ -35,7 +35,7 @@ import {
 } from "three";
 import { getSize, getCenter } from "./util";
 import { OrbitControls } from "./controls/OrbitControls";
-import { TweenLite } from "gsap/TweenMax";
+import { TweenLite } from "gsap";
 
 const suportWebGL = (() => {
   try {
