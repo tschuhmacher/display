@@ -35,7 +35,8 @@ import {
 } from "three";
 import { getSize, getCenter } from "./util";
 import { OrbitControls } from "./controls/OrbitControls";
-import { TweenLite } from "gsap";
+// import { TweenLite } from "gsap";  // (https://greensock.com/licensing/) Prüfen Sie vor Verwendung, ob Sie eine Lizenz erwerben müssen.
+
 
 const suportWebGL = (() => {
   try {
@@ -355,13 +356,13 @@ export default {
       const cam = this.camera;
       const { x, y, z } = point;
 
-      // Animation transition
-      TweenLite.to(cam.position, 1, {
-        x: x,
-        y: y + 0.5,
-        z: z,
-        ease: TweenLite.defaultEase
-      });
+      // Animation transition // (https://greensock.com/licensing/). Prüfen Sie vor Verwendung, ob Sie eine Lizenz erwerben müssen.
+      // TweenLite.to(cam.position, 1, {
+      //   x: x,
+      //   y: y + 0.5,
+      //   z: z,
+      //   ease: TweenLite.defaultEase
+      // });
     },
     togglePointsVisibility(bool) {
       this.scene.children.map(item => {
