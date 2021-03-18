@@ -57,12 +57,13 @@ Highlights sind der Scan der Lebendmaske Ludwig van Beethovens sowie der Scan de
 https://blog.sbb.berlin/wp-content/uploads/sbb-pwa/
 
 # Credits
-Auftraggeber/Rechteinhaber: Staatliche Museen zu Berlin - Preußischer Kulturbesitz</br>
-Initiale Entwicklung (09/2018-02/2019): Neue Werte GmbH
-Weiterentwicklung (ab 2019): Projektteam Staatliche Museen zu Berlin im Verbundprojekt museum4punkt0
+Auftraggeber/Rechteinhaber: Staatliche Museen zu Berlin - Preußischer Kulturbesitz  
+Initiale Entwicklung (09/2018-02/2019): Neue Werte GmbH  
+Weiterentwicklung (ab 2019): Projektteam Staatliche Museen zu Berlin im Verbundprojekt museum4punkt0  
 
 Kontaktinformation:
-museum4punkt0 / Staatliche Museen zu Berlin – Preußischer Kulturbesitz: Timo Schuhmacher t.schuhmacher@smb.spk-berlin.de
+museum4punkt0 / Staatliche Museen zu Berlin – Preußischer Kulturbesitz:  
+Timo Schuhmacher t.schuhmacher@smb.spk-berlin.de
 
 # Lizenzen
 Dieser Code unterliegt der GNU General Public License v3.0. Näheres siehe [hier](#https://github.com/museum4punkt0/display/blob/main/LICENSE)
